@@ -30,6 +30,7 @@ Born2beroot is a system administration and security project from 42 school. The 
 
 ### Configuration
 
+- sudo install:
 ```bash
 su -
 apt-get update && apt-get upgrade -y
