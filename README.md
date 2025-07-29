@@ -28,7 +28,7 @@ Born2beroot is a system administration and security project from 42 school. The 
 
 ## ⚙️ Configuration Steps
 
-### 1. Sudo Configuration
+### Configuration
 
 ```bash
 su -
